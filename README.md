@@ -9,3 +9,5 @@ Results are pretty convincing, thanks to Google's pre-trained model.
 ### how this is different from techniques like Bag of words or TF-IDF?
 Because these techniques does not find similarity on the basis of text, but find similarity on the basis of semantics.
 For more info on this: Search Word2Vec and Google universal Sentence encoder.
+
+[alt-text](precily.PNG)
