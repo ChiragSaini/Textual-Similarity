@@ -10,4 +10,7 @@ Results are pretty convincing, thanks to Google's pre-trained model.
 Because these techniques does not find similarity on the basis of text, but find similarity on the basis of semantics.
 For more info on this: Search Word2Vec and Google universal Sentence encoder.
 
-[alt-text](precily.PNG)
+
+### Results: 
+
+![alt-text](precily.PNG)
